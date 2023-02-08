@@ -81,31 +81,3 @@ float: left;
 	font-size: 18px;
 	text-align: justify;
 }
-.navbar {
-    align-items: center;
-    font-family: Helvetica;
-    padding: 44px;
-    bottom: 120%;
-    display: flex;
-    justify-content: center;
-    left: 0;
-    position: fixed;
-    right: 0;
-    top: 0;
-    width: 100%;
-}
-.navbar a {
-  float:left ;
-  color: black;
-  text-align: center;
-  padding: 23px;
-  text-decoration: none;
-  background-color: #ffffe6;
-  width:100%;
-  font-size: 17px;
-}
-
-.navbar a:hover {
-  background: #dddd;
-  color: black;
-}
