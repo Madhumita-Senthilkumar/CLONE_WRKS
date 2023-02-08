@@ -1,0 +1,111 @@
+.header
+{
+	background-color: #66ff66;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	margin-left: 420px;
+	margin-right: 420px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	content: 50px;
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+	font-size: 24px;
+	display: flex;
+	justify-content: center;
+}
+.body
+{
+	font-family: sans-serif;
+	margin-left: 420px;
+	margin-right: 420px;
+	font-size: 20px;
+}
+.content{
+font-size: 18px;
+font-family: sans-serif;
+	margin-left: 420px;
+	margin-right: 420px;
+}
+.con{
+	display: grid;
+	grid-template-columns: 1px auto;
+	grid-template-rows: 100px 128px;
+	align-content: center;
+	column-gap: 5px;
+}
+img
+{
+	margin-left: 420px;
+	margin-right: 420px;
+width: 350px;
+height: 250px;
+float: left;
+}
+.text
+{
+	font-family: sans-serif;
+	margin-left: 800px;
+	margin-right: 420px;
+	font-size: 18px;
+	text-align: justify;
+}
+.txt2{
+	font-family: sans-serif;
+	margin-left: 420px;
+	margin-right: 420px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  background-color: #66ff66;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 6px;
+  	margin-left: 620px;
+	margin-right: 420px;
+}
+.bottom{
+	font-family: sans-serif;
+	margin-left: 420px;
+	margin-right: 420px;
+	font-size: 18px;
+	text-align: justify;
+}
+.navbar {
+    align-items: center;
+    font-family: Helvetica;
+    padding: 44px;
+    bottom: 120%;
+    display: flex;
+    justify-content: center;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+.navbar a {
+  float:left ;
+  color: black;
+  text-align: center;
+  padding: 23px;
+  text-decoration: none;
+  background-color: #ffffe6;
+  width:100%;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #dddd;
+  color: black;
+}
