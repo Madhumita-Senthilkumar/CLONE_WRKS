@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head>
+    <title>My first task</title>
+</head>
+<body>
+    <CENTER><h1>TREE</h1></CENTER>
+    <p>Tree Essay- Trees are our best friends because they clean the air we breathe. 
+        Likewise, they also clean the water and soil and ultimately make the earth a better place. <br>
+        It is also a fact that people who live near trees are healthier, fit, and happier than people who do not.</p>
+        <br>
+        Importance of Trees
+Trees are important to us in a lot of ways and we cannot ignore their importance. 
+They are important because they give us fresh air to breathe, food to eat and shelter/shade from sunlight and rainfall. <br>Besides this, there are many medicines in the market that are made up of trees extracts. <br>
+Apart from this, there are plants and trees that have medicinal value.
+They bring peacefulness; create a pleasing and relaxing environment. <br>
+Also, they help in reflecting the harmful rays of the sun and maintaining a balanced temperature. 
+Besides, they also help in water conservation and preventing soil erosion. 
+They also manage the ecosystem and from ancient times several varieties of plants are worshipped.
+<br><br>
+<table border="1px" style="width: 80%; text-align: center;">
+    <tr>
+        <th>S.no</th>
+        <th>Types of trees</th>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Banana Tree</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>Coconut  Tree</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Banyan Tree</td>
+    </tr>
+</table>
+<br>
+<img src="C:\Users\madhu\Downloads\trees.jpg" style="height: 30%; width: 50%;"><br>
+<audio controls autoplay loop>
+    <source src="trees.mp3" type="audio/mpeg">
+</audio>
+<video width="320" height="240" controls>
+    <source src="00005.mp4" type="video/mp4">
+    <source src="movie.ogg" type="video/ogg">
+    Your browser does not support the video tag.
+  </video>
+  
+<h2>Types of trees:</h2>
+<ul>
+  <li>Apple Tree</li>
+  <li>Banyan Tree</li>
+  <li>Banana Tree</li>
+</ul>
+<br><b>
+<p>Choose the tree:</p></b>
+<input type="radio" id="tree" name="fav_language" value="tree">
+<label for="tree">Banana Tree</label><br>
+<input type="radio" id="mtree" name="fav_language" value="mtree">
+<label for="mtree">Mango Tree</label><br>
+<input type="radio" id="batree" name="fav_language" value="batree">
+<label for="batree">Banyan Tree</label>  
+<br><br>
+<label>Enter your favorite tree:</label>
+<input type="text" style="width: 10%;">
+<br><br>
+<input type="checkbox" id="tree" name="fav_language" value="tree">
+<label for="tree">Banana Tree</label><br>
+<input type="checkbox" id="mtree" name="fav_language" value="mtree">
+<label for="mtree">Mango Tree</label><br>
+<input type="checkbox" id="batree" name="fav_language" value="batree">
+<label for="batree">Banyan Tree</label>  
+<br><br>
+<button value="Submit">Submit</button>
+</body>
+</html>
