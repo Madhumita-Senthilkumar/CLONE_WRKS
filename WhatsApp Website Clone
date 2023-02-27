@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Whatsapp</title>
+	<link rel="stylesheet" type="text/css" href="whatsapp_clone.css">
+</head>
+<body>
+<div class="head">
+	<img src="C:\Users\madhu\Downloads\whatsapp-logo.png" usemap="#workmap">
+<map name="workmap">
+  <area shape="rect" coords="0,0,120,150" alt="Computer" href="https://www.whatsapp.com/">
+</map>
+ <div class="nonull">
+<a class="one" href="#Features">Features</a>
+  <a class="two" href="#Privacy">Privacy</a>
+  <a class="three" href="#Help Center">Help Center</a>
+  <a class="four" href="#Help Center">Blog</a>
+  <a class="five" href="#WhatsApp Web">WhatsApp Web</a>
+</div>
+  <button class="button">Download</button>
+</div>
+<div class="background">
+  <img src="C:\Users\madhu\Downloads\whatsapp bgg.png" style="width:96%; height: 50%;">
+</div>
+</body>
+</html>
